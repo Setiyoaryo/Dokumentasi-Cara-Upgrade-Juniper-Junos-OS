@@ -5,7 +5,7 @@
 > Target contoh pada dokumentasi ini:
 >
 > - **Device:** MX204
-> - **Hostname:** `BR-SBY.KTT-01J`
+> - **Hostname:** `Router`
 > - **Current Junos:** `20.4R2.7`
 > - **Target Junos:** `22.2R3-S7.4`
 > - **Package:** `/var/tmp/junos-vmhost-install-mx-x86-64-22.2R3-S7.4.tgz`
@@ -110,7 +110,7 @@ Sebelum upgrade:
 Contoh device:
 
 ```text
-Hostname : BR-SBY.KTT-01J
+Hostname : Router
 Model    : mx204
 Current  : 20.4R2.7
 Target   : 22.2R3-S7.4
@@ -235,7 +235,7 @@ show version
 Contoh:
 
 ```text
-Hostname: BR-SBY.KTT-01J
+Hostname: Router
 Model: mx204
 Junos: 20.4R2.7
 JUNOS OS Kernel 64-bit [20210220.a5d6a89_builder_stable_11]
